@@ -1,4 +1,4 @@
-## 🔐 DevSecOps Tools
+## 🔐 DevOps Tools
 
 <p align="center">
 
